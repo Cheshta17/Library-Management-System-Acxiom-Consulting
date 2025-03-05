@@ -50,7 +50,7 @@ Login:
 
 ### Screenshot Files
 <img width="628" alt="image" src="https://github.com/user-attachments/assets/940a5a7a-c9b1-464e-a21f-c2f6f9217027" />
-<img src="https://github.com/gauravsingh112/Acxiom-Assignment-/assets/129499661/e704f701-0f71-40aa-a868-32b56bd4166d"  width="300">
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/f31a4656-6143-4459-8624-61e10cfb2eb1" />
 <img src="https://github.com/gauravsingh112/Acxiom-Assignment-/assets/129499661/09abf501-fa79-47d2-bd71-34e15338f615"  width="300">
 <img src="https://github.com/gauravsingh112/Acxiom-Assignment-/assets/129499661/a13f26e4-9832-4f3e-b529-acb4e5d8d936"  width="300">
 <img src="https://github.com/gauravsingh112/Acxiom-Assignment-/assets/129499661/f8fe0ae4-af86-4909-b681-8ecd3658feee"  width="300"> 
