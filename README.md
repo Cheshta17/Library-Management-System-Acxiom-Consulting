@@ -54,7 +54,7 @@ Login:
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/fa733743-4f0c-412c-b06a-4de50b38b66c" />
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/06517db2-680f-4c2c-af25-a584ee13641f" />
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/9a4e893f-7c9e-4534-9893-b152b5626b56" />
-<img src="https://github.com/gauravsingh112/Acxiom-Assignment-/assets/129499661/e8a91369-d9dc-4791-9d72-6e29f72a1cfe"  width="300">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/055ac1da-3515-486e-a483-2221ed79b6fe" />
 
 
 ## Contact
