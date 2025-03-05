@@ -58,7 +58,7 @@ Login:
 
 
 ## Contact
-For inquiries, please contact Gaurav Singh at gauravsr1901gmail@gmail.com.
+For inquiries, please contact Cheshta Bhatia at cbhatia614gmail@gmail.com.
 
 
 
