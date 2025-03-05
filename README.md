@@ -49,12 +49,11 @@ Login:
 
 
 ### Screenshot Files
-<img width="628" alt="image" src="https://github.com/user-attachments/assets/940a5a7a-c9b1-464e-a21f-c2f6f9217027"  width="300"/>
-<img width="525" alt="image" src="https://github.com/user-attachments/assets/f31a4656-6143-4459-8624-61e10cfb2eb1"  width="300"/>
-<img width="845" alt="image" src="https://github.com/user-attachments/assets/fa733743-4f0c-412c-b06a-4de50b38b66c"  width="300"/>
-<img width="459" alt="image" src="https://github.com/user-attachments/assets/06517db2-680f-4c2c-af25-a584ee13641f"  width="300"/>
-
-<img src="https://github.com/gauravsingh112/Acxiom-Assignment-/assets/129499661/f8fe0ae4-af86-4909-b681-8ecd3658feee"  width="300"> 
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/940a5a7a-c9b1-464e-a21f-c2f6f9217027" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/f31a4656-6143-4459-8624-61e10cfb2eb1" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/fa733743-4f0c-412c-b06a-4de50b38b66c" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/06517db2-680f-4c2c-af25-a584ee13641f" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9a4e893f-7c9e-4534-9893-b152b5626b56" />
 <img src="https://github.com/gauravsingh112/Acxiom-Assignment-/assets/129499661/e8a91369-d9dc-4791-9d72-6e29f72a1cfe"  width="300">
 
 
